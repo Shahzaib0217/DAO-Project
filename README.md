@@ -1,4 +1,4 @@
-# This is my project title
+# DAO for NFT Holders
 
 This sentence describes what my project is about summarized.
 
